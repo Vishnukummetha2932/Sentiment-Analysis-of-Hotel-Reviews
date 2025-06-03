@@ -4,13 +4,13 @@ This repository, **Vishnukummetha2932/Sentiment-Analysis-of-Hotel-Reviews**, con
 
 **Table of Contents**
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Output](#output)
-- [Dependencies](#dependencies)
+- Project Overview
+- Features
+- Installation
+- Usage
+- Data
+- Output
+- Dependencies
 
 **Project Overview**
 
