@@ -69,6 +69,8 @@ The notebook will:
 
 **Data**
 
+![{53BF6BED-33CC-4B70-AEEC-13D6EF8A849E}](https://github.com/user-attachments/assets/d12c7121-8b42-4dd7-8337-8f389f87e7e6)
+
 The notebook expects a CSV file named Hotel_Reviews.csv. This file should contain a column named reviews.text which holds the textual reviews to be analyzed for sentiment.
 
 **Note:** The provided notebook assumes the presence of this specific CSV file. If your data is in a different format or has a different column name, you will need to modify the df = pd.read_csv('Hotel_Reviews.csv') and df\['Sentiment'\] = df\['reviews.text'\].apply(get_sentiment) lines accordingly.
@@ -84,6 +86,8 @@ The notebook will output:
 - The mean of reviews.rating.
 - A breakdown of 'Positive', 'Negative', and 'Neutral' sentiment counts.
 - A pie chart visualizing the sentiment distribution.
+  ![{E7133019-176C-496A-BADB-47C28F216F19}](https://github.com/user-attachments/assets/262b4102-08e4-4869-9694-145deddf817b)
+
 
 **Dependencies**
 
